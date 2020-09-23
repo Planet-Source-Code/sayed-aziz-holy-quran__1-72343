@@ -1,0 +1,181 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\QuranVB\Installation
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+titlee.bmp=
+title.bmp=
+q1.bmp=
+p1.bmp=
+Qhelp.CHI=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\WINDOWS\system32\wmp.dll=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+D:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+D:\WINDOWS\system32\Richtx32.ocx=
+C:\WINDOWS\system32\RICHTX32.OCX=
+C:\WINDOWS\system32\scrrun.dll=
+D:\WINDOWS\system32\scrrun.dll=
+
+[Package|Standard Setup Package 1|Files Added]
+d:\quranvb\albaset\bismillah.wav=
+d:\quranvb\q2.ico=
+d:\quranvb\qhelp.chm=
+d:\quranvb\readme.txt=
+D:\QuranVb\MB.WMV=
+
+[Package|Standard Setup Package 1|Files Removed]
+d:\quranvb\p1.bmp=
+d:\quranvb\q1.bmp=
+d:\quranvb\title.bmp=
+d:\quranvb\titlee.bmp=
+c:\windows\system32\msvcrt.dll=
+d:\windows\system32\msvcrt.dll=
+
+[Package|Standard Setup Package 1|Files In Project]
+D:\QuranVB\HolyQuran.exe=Yes
+D:\QuranVB\AlBaset\Bismillah.wav=Yes
+D:\QuranVb\Q2.ico=Yes
+D:\QuranVb\Qhelp.chm=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\hhctrl.ocx=Yes
+C:\WINDOWS\system32\itss.dll=Yes
+C:\WINDOWS\system32\itircl.dll=Yes
+C:\WINDOWS\hh.exe=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\WINDOWS\system32\msvcrt.dll=No
+C:\WINDOWS\system32\MCI32.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\system32\wmp.dll=Yes
+D:\QuranVb\Readme.txt=Yes
+D:\QuranVb\MB.WMV=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+D:\QuranVB\HolyQuran.exe=$(AppPath)
+D:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+D:\WINDOWS\system32\MCI32.OCX=$(WinSysPath)
+D:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+D:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\QuranVB\AlBaset\Bismillah.wav=$(AppPath)\AlBaset
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MCI32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\Vb6stkit.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\QuranVb\P1.BMP=$(AppPath)
+D:\QuranVb\Q2.ico=$(AppPath)
+D:\QuranVb\Q1.bmp=$(AppPath)
+D:\QuranVb\Title.bmp=$(AppPath)
+D:\QuranVb\TitleE.bmp=$(AppPath)
+D:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+D:\WINDOWS\system32\Richtx32.ocx=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+D:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+D:\WINDOWS\system32\hhctrl.ocx=$(WinSysPath)
+D:\WINDOWS\system32\itss.dll=$(WinSysPath)
+D:\WINDOWS\system32\itircl.dll=$(WinSysPath)
+D:\WINDOWS\hh.exe=$(WinSysPath)
+D:\QuranVb\Qhelp.chm=$(AppPath)
+D:\WINDOWS\system32\hh.exe=$(WinSysPath)
+C:\WINDOWS\system32\hhctrl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\itss.dll=$(WinSysPath)
+C:\WINDOWS\system32\itircl.dll=$(WinSysPath)
+C:\WINDOWS\hh.exe=$(WinSysPath)
+C:\WINDOWS\system32\wmp.dll=$(WinSysPath)
+D:\QuranVb\Readme.txt=$(AppPath)
+D:\QuranVb\MB.WMV=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+D:\QuranVB\HolyQuran.exe=No
+D:\QuranVB\AlBaset\Bismillah.wav=No
+D:\QuranVb\P1.BMP=No
+D:\QuranVb\Q2.ico=No
+D:\QuranVb\Q1.bmp=No
+D:\QuranVb\Title.bmp=No
+D:\QuranVb\TitleE.bmp=No
+D:\QuranVb\Qhelp.chm=No
+D:\QuranVb\Readme.txt=No
+D:\QuranVb\MB.WMV=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=HolyQuran
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=D:\QuranVB\Installation
+ProjectFolder=D:\QuranVb
+ServerSideCab=
+File1=D:\QuranVB\Installation\setup.exe
+File2=D:\QuranVB\Installation\Setup.Lst
+File3=D:\QuranVB\Installation\HolyQuran.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=HolyQuran
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|HolyQuran]
+Icon1=HolyQuran.exe
+Title1=HolyQuran
+StartIn1=$(AppPath)
+Key1=Icon1
